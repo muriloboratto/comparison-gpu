@@ -8,7 +8,7 @@ This repository contains the material corresponding to the webinar/Hands-on: _Co
 
 Material available in \*.ipynb (Jupyter NoteBook) format. There are 4 notebooks in this repository:
 
-## [1-introduction.ipynb](https://colab.research.google.com/drive/1fHKmkCSNSg_tkLuSPBhcIgnsm7x9ElZB?usp=sharing)
+## [1-introduction.ipynb]()
 The introductory notebook contains some of the webinar's content, and through some basic commands, we will be able to characterize the available the APIs on GPUs environments.
 
 ---
