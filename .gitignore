@@ -1,10 +1,5 @@
 # Ignore the node_modules directory
-_slides/
-*_JD0008/
-*_JD0009/
-*_JD0045/
-*_JD0007/
-*_slides/
+_reciclage/
 *.ipynb_checkpoints/
 
 # Ignore Logs
