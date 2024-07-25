@@ -8,8 +8,12 @@ This repository contains the material corresponding to the webinar/Hands-on: _Co
 
 Material available in \*.ipynb (Jupyter NoteBook) format. There is 1 notebook in this repository:
 
-## [1-introduction.ipynb]()
-The introductory notebook contains some of the webinar's content, and through some basic commands, we will be able to characterize the available the APIs on GPUs environments.
+## [1-comparison-mm-c-fortran.ipynb]()
+
+## [2-comparison-only-fortran.ipynb]()
+
+## [3-comparison-compiler-fortran-mpif90.ipynb]()
+
 
 ---
 
